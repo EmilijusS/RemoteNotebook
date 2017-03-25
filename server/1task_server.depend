@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1489309503 source:c:\users\emis\desktop\1uzduotis\1task_server\main.c
+	<stdio.h>
+	<string.h>
+	<direct.h>
+	<windows.h>
+	<tchar.h>
+	<errno.h>
+	<winsock2.h>
+

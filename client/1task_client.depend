@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1489310443 source:c:\users\emis\desktop\1uzduotis\1task_client\main.c
+	<stdio.h>
+	<winsock2.h>
+
